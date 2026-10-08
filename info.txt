@@ -1,3 +1,17 @@
-This is info.txt file
+code14base
+==========
 
-This repository is maintained by code14base, with contributions from GreenCode668.
+This repository doubles as the GitHub profile README for the code14base
+account. The rendered profile lives at https://github.com/code14base
+
+Maintainers
+-----------
+
+- code14base   - owner
+- GreenCode668 - contributor
+
+Notes
+-----
+
+Anything committed here is public and appears on the profile page, so keep
+scratch work and experiments in a separate repository.
